@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691706216 source:e:\c\lendo numeros reais\lermedias\main.c
+	<stdio.h>
+	<stdlib.h>
+
